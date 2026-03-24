@@ -23,7 +23,7 @@ A web-based **AI + Rule-Based hybrid system** to predict diseases instantly from
   Provides guidance for doctors, especially in resource-limited settings.
 
 ---
----
+
 
 ## ⚙️ Setup & Installation
 
@@ -53,20 +53,7 @@ python scripts/train_model.py
 python scripts/test_hybrid.py
 ```
 
-## 📁 Project Structure
-
-Hybrid-Disease-Predictor/
-│
-├── data/                      # Dataset CSV files
-├── models/                    # Saved ML models and label encoders
-├── scripts/
-│   ├── train_model.py         # Train ML model
-│   └── test_hybrid.py         # Test hybrid predictor
-│
-├── hybrid_predictor.py        # Hybrid prediction code
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project documentation
-
+---
 
 🌍 How It Solves Real Problems
 1. Report Delay - Provides instant diagnostic predictions so doctors can start treatment immediately.
