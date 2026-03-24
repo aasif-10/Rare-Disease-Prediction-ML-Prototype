@@ -23,13 +23,6 @@ A web-based **AI + Rule-Based hybrid system** to predict diseases instantly from
   Provides guidance for doctors, especially in resource-limited settings.
 
 ---
-
-## 🎬 Demo
-
-![Demo GIF](https://via.placeholder.com/600x300?text=Demo+GIF+Here)
-
-*Replace this with actual GIF or screenshots of your platform.*
-
 ---
 
 ## ⚙️ Setup & Installation
@@ -61,6 +54,7 @@ python scripts/test_hybrid.py
 ```
 
 ## 📁 Project Structure
+
 Hybrid-Disease-Predictor/
 │
 ├── data/                      # Dataset CSV files
@@ -72,7 +66,6 @@ Hybrid-Disease-Predictor/
 ├── hybrid_predictor.py        # Hybrid prediction code
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
-
 
 
 🌍 How It Solves Real Problems
